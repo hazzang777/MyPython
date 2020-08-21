@@ -1,0 +1,1 @@
+# thiland.py에서 실습
